@@ -1,2 +1,1 @@
-# You-are-so-close
-The code of Rhe king of Scripting
+Hello! If you have found my treasure, congratulations! This is my treasure, the longest JavaScript code in the world. Make sure to post videos about finding it on the internet, and don’t forget to run my code!
